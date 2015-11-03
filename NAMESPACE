@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import("lattice")
+importFrom("graphics", "legend", "matplot", "par", "plot", "points",
+            "segments")
+importFrom("methods", "is")
+importFrom("stats", "qbeta", "rmultinom", "rnorm", "runif")
