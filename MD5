@@ -1,4 +1,4 @@
-b59052669535dd68bf661c83667abbe2 *DESCRIPTION
+019d2722886aafc6a050fd4eedf4b044 *DESCRIPTION
 f084c9b6a96012c6f78fa9fb462bdb12 *LICENSE
 79548e20b70701000e29f92443144895 *NAMESPACE
 930d2de2360837432a4584507e211f45 *R/Diagnostics.R
@@ -11,10 +11,6 @@ bc4dedd87c93dc68dd44ffd074f2a98e *R/PropStep.R
 2b0de38647ee6598ba1780d9c0975e22 *R/RunMh.R
 4ace34988ae4b01799f8e1a387ced424 *R/SimplexMCMC-internal.R
 b08e37ebb121b852c3f9f9cabbb5f1bf *R/TriPlot.R
-d0a7b79e7c4317908c33ce4ff0d85cf3 *build/vignette.rds
-85445fe77527f0cbcf96f6624a5de1e3 *inst/doc/SALTSampler.R
-0afde178f40bd4e164b5cd40671eaecf *inst/doc/SALTSampler.Rmd
-ee6186c7c9933b90ca194ac2529a286c *inst/doc/SALTSampler.html
 f0382fe3d42a129be009e41a7ff56fda *man/Diagnostics.Rd
 a3ec7c839807bc00836a9d5e1de38a3c *man/GenData.Rd
 b1ec1dc73b265b43af81723fb1dd4ce5 *man/LogPq.Rd
@@ -25,5 +21,3 @@ ab361085fd75a641a2a4a16a72cb0b88 *man/LogitScale.Rd
 a7b0b51a73ec46c016ef83e97b97082d *man/RunMh.Rd
 13e1bedebbd44e70da97525fa8a80b97 *man/SALTSampler-package.Rd
 99b967b5614cbf8391474fc259a15a08 *man/TriPlot.Rd
-0afde178f40bd4e164b5cd40671eaecf *vignettes/SALTSampler.Rmd
-abfa6701814b5880c05ce2f652fd5452 *vignettes/sourcesVignette.bib
